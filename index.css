@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: green;
+
+}
+
+.container{
+    position: relative;
+}
+
+.Welcome{
+    position: absolute;
+    bottom: 50px;
+    top: 50px;
+    color: azure;
+    margin-left: 40px;
+    font-size: larger;
+
+}
